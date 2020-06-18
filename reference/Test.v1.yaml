@@ -5,7 +5,8 @@ info:
   license:
     name: MIT
 servers:
-  - url: 'http://localhost:3000'
+  - url: 'http://localhost:3000/url'
+    description: NAME
 paths: {}
 components:
   schemas: {}
